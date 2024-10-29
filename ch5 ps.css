@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+}
+li {
+  display: inline;
+  padding: 0 13px;
+}
+header {
+  background-color: black;
+  color: white;
+  padding: 25px;
+  position: sticky;
+  top: 0;
+  }
+  .container {
+    height: 5555px;
+    background-color: blueviolet;
+    position: relative;
+    z-index: 15;
+    color: white;
+}
+
